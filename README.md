@@ -15,6 +15,13 @@ Check your node version
 Run react-create-app with typescript and npm using NPX
 ### `npx create-react-app aluroni --template typescript --use-npm`
 
+Install css-modules
+### `npm install -D typescript-plugin-css-modules sass`
+
+Run build to make sure your files are being loaded
+
+### `npm run build`
+
 ## Available Scripts
 
 In the project directory, you can run:
