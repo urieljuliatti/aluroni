@@ -4,15 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Before everything
 
-### Check your NPM version
+Check your NPM version
 ### `npm -v`
 ### `npm 8 or greater`
 
-### Check your node version
+Check your node version
 ### `node -v`
 ### `v16.19.0 or greater`
 
-### Run react-create-app with typescript and npm using NPX
+Run react-create-app with typescript and npm using NPX
 ### `npx create-react-app aluroni --template typescript --use-npm`
 
 ## Available Scripts
