@@ -22,6 +22,10 @@ Run build to make sure your files are being loaded
 
 ### `npm run build`
 
+Load React icons
+
+### `npm install react-icons`
+
 ## Available Scripts
 
 In the project directory, you can run:
